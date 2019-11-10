@@ -1,0 +1,830 @@
+{
+    "0": {
+        "pdf_height": "1188",
+        "pdf_width": "918",
+        "page_details": [
+            {
+                "block_text": "Waiting at the airport is a \nbreeze when done in comfort. \nCard Members get access to \n1,100 airport lounges across \n120 countries with \nAmerican Express Global \nLounge CollectionSM.1",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    72.0,
+                    738.0,
+                    279.0,
+                    872.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 13.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    17332,
+                    16796,
+                    1795
+                ]
+            },
+            {
+                "block_text": "*American Express relies on accurate airline transaction data to identify incidental fee purchases. If after four weeks you do not see a credit \nfor a US dollar incidental fee that you believe qualifies for the benefit, simply call the number on the back of your Card. Credits issued for \nthis benefit are up to $100 per calendar year. Please see terms and conditions on the back for more details.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    72.0,
+                    1045.0,
+                    842.0,
+                    1089.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "footnote"
+                ],
+                "ctc_block_id": [
+                    7632,
+                    2442,
+                    2443
+                ]
+            },
+            {
+                "block_text": "REWARD EMPLOYEES ON THE GO \nWITH PREMIUM STATUS",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    109.0,
+                    29.0,
+                    818.0,
+                    129.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 43.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    18505,
+                    12541,
+                    12226
+                ]
+            },
+            {
+                "block_text": "Lounge \nComfortably",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    113.0,
+                    677.0,
+                    238.0,
+                    726.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 19.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    12691,
+                    12233,
+                    12082
+                ]
+            },
+            {
+                "block_text": "Corporate Platinum Card Members can get access to an elevated suite of benefits \nand solutions. With access to a number of exclusive airport lounges around the world, \nyou\u2019re getting value for your business \u2013 all while rewarding the people who help you \nrun it. Here\u2019s a selection of what the Card offers:",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    163.0,
+                    463.0,
+                    758.0,
+                    539.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 13.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    9072,
+                    4007,
+                    14157
+                ]
+            },
+            {
+                "block_text": "Best for Rewarding Employees With Premium Travel Perks",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    174.0,
+                    432.0,
+                    744.0,
+                    457.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 19.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    10061,
+                    19738,
+                    14594
+                ]
+            },
+            {
+                "block_text": "The Corporate Platinum Card\u00ae from American Express",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    189.0,
+                    133.0,
+                    729.0,
+                    158.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 19.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    4341,
+                    21197,
+                    13048
+                ]
+            },
+            {
+                "block_text": "Contact your American Express\u00ae representative or \nvisit business.americanexpress.com/us \nto learn more about the Corporate Platinum Card.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    283.0,
+                    948.0,
+                    638.0,
+                    1006.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 13.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    20223,
+                    11648,
+                    8581
+                ]
+            },
+            {
+                "block_text": "With the $100 Airline Fee \nCredit2 program, you can get \nup to $100 per calendar year \nin credits for incidental fees \ncharged by one airline to your \nCorporate Platinum Card\u00ae \nAccount.*",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    354.0,
+                    737.0,
+                    564.0,
+                    872.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 13.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    5819,
+                    19160,
+                    8124
+                ]
+            },
+            {
+                "block_text": "See reverse for Terms & Conditions.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    373.0,
+                    1132.0,
+                    546.0,
+                    1144.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 8.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    18895,
+                    3033,
+                    13024
+                ]
+            },
+            {
+                "block_text": "Get More \nOut of Flying",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    396.0,
+                    677.0,
+                    522.0,
+                    726.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 19.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    11082,
+                    7445,
+                    6345
+                ]
+            },
+            {
+                "block_text": "With Hilton Honors Gold \nstatus ,3 employees can enjoy \nbenefits at hotels and resorts \nwithin the Hilton Portfolio and \nearn reward stays faster with \nHonors Bonus Points.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    639.0,
+                    738.0,
+                    848.0,
+                    853.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 13.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    11128,
+                    11536,
+                    11127
+                ]
+            },
+            {
+                "block_text": "Feel at Home \nWherever You Are",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    653.0,
+                    677.0,
+                    827.0,
+                    726.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 19.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    3990,
+                    13349,
+                    12125
+                ]
+            }
+        ]
+    },
+    "1": {
+        "pdf_height": "1188",
+        "pdf_width": "918",
+        "page_details": [
+            {
+                "block_2_4": "Terms & Conditions",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    51.0,
+                    202.0,
+                    68.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 13.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    10412,
+                    13026,
+                    2474
+                ]
+            },
+            {
+                "block_2_5": "1 The Centurion\u00ae Lounge\nCorporate Platinum Card Members have unlimited complimentary access to all locations of The Centurion Lounge. Gold Card and Green Card \nAdditional Cards on your Corporate Platinum Card account are not eligible for complimentary access. Card Members may bring immediate \nfamily (spouse or domestic partner and their children under 18) OR up to two (2) companions into The Centurion Lounge. To access The \nCenturion Lounge, the Card Member must present The Centurion Lounge agent with the following upon each visit: his or her valid Card, a \nboarding pass showing a confirmed reservation for same-day travel on any carrier and a government-issued I.D. Failure to present this \ndocumentation may result in access being denied. Card Members will not be compensated for changes in locations, rates or policies. A Card \nMember must be at least 18 years of age to enter without a parent or legal guardian. For locations with a self-service bar, the Card Member must \nbe of legal drinking age in the location\u2019s jurisdiction to enter without a parent or legal guardian. Must be of legal drinking age to consume \nalcoholic beverages. Please drink responsibly. American Express reserves the right to remove any person from the Lounge for inappropriate \nbehavior or failure to adhere to rules, including, but not limited to, conduct that is disruptive, abusive or violent. Access is subject to space \navailability. Hours may vary by location and are subject to change. Amenities vary among The Centurion Lounge locations and are subject to \nchange. Services and amenities in the Lounge are complimentary, however you are responsible for any purchases and/or servicing charges you \nauthorize our Member Services Professionals to perform on your behalf. Some American Express Cards are not eligible for all services provided \nby Member Services Desk. American Express will not be liable for any articles lost or stolen or damages suffered by the purchaser or visitor \ninside The Centurion Lounge. Use of The Centurion Lounge is subject to all rules and conditions set by American Express. American Express \nreserves the right to revise the rules at any time without notice.\n\u00a92018 American Express Travel Related Services Company, Inc. All rights reserved",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    81.0,
+                    855.0,
+                    337.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    16802,
+                    16849,
+                    4350
+                ]
+            },
+            {
+                "block_2_24": "American Express International Lounges",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    338.0,
+                    291.0,
+                    352.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    15216,
+                    16210,
+                    14275
+                ]
+            },
+            {
+                "block_2_25": "Corporate Platinum Card Members have unlimited complimentary access to American Express Lounge locations. Guest access policies vary by \nlocation and are subject to change. Fees may apply for additional guests. To access American Express Lounges, the Corporate Platinum Card \nMember must present the agent with the following upon each visit: his or her valid Card and upon request, same-day airline ticket on any carrier \nand a government-issued I.D. Failure to present this documentation may result in access being denied. Corporate Platinum Card Members will not \nbe compensated for changes in locations, rates or policies. American Express reserves the right to remove any person from a lounge for \ninappropriate behavior or failure to adhere to lounge rules, including, but not limited to, conduct that is disruptive, abusive or violent. Access is \nsubject to space availability. Amenities, services and hours of operation may vary among locations and are subject to change.\nIn some Lounges the Corporate Platinum Card Member must be at least 18 years of age to enter without a parent or guardian. Age restrictions for \nthe service of alcohol also vary between Lounges. American Express will not be liable for any articles lost or stolen or damages suffered by the \npurchaser or visitor inside American Express Lounges. Use of American Express Lounges is subject to the local rules and conditions set by \nAmerican Express and the Lounge operator. American Express and the Lounge operator reserve the right to revise the rules at any time without \nnotice. For details of individual American Express lounge access requirements please visit www.americanexpress.com/findalounge.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    351.0,
+                    859.0,
+                    527.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    14780,
+                    16805,
+                    16678
+                ]
+            },
+            {
+                "block_2_37": "Delta SkyClub\u00ae",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    539.0,
+                    144.0,
+                    555.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    21097,
+                    21093,
+                    21092
+                ]
+            },
+            {
+                "block_2_39": "The Corporate Platinum Card Member must present his or her valid American Express Card, government-issued I.D., and same-day corresponding \nairline ticket to club ambassador. Access to Delta Sky Club partner lounges is not permitted. Individuals must be at least 18 years of age to access \nDelta Sky Club, and 21 years of age to access locations with a self-service bar, unless accompanied by a responsible, supervising adult who has \naccess to the lounge. Card Members must adhere to all House Rules of participating clubs. Participating airport clubs and locations subject to \nchange without notice. Additional guest access and fees subject to terms and conditions of participating airport clubs.\nFor the most current Delta Sky Club access and pricing policy, please visit Delta.com/skyclub. All Delta Sky Club rules apply to Delta Sky Club \nmembership and use. To review the rules, please visit Delta.com/skyclub.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    554.0,
+                    862.0,
+                    662.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    2078,
+                    6553,
+                    4280
+                ]
+            },
+            {
+                "block_2_46": "Airspace",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    675.0,
+                    105.0,
+                    689.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Marketing Copy"
+                ],
+                "ctc_block_id": [
+                    2075,
+                    7151,
+                    10080
+                ]
+            },
+            {
+                "block_2_47": "This benefit is available to Corporate Platinum Card Member must present his or her valid Card and government-issued I.D. Ticket not required for \nAirspace Lounges. In some cases, Card Member must be 21 years of age to enter without a parent or guardian. The Card Member\u2019s spouse and \nchildren under the age of 21 or up to two companions may enter the club as complimentary guests. Card Member must adhere to all house rules of \nparticipating lounges. Card Members and his or her guests will receive all of the complimentary benefits and amenities afforded to the Airspace \nLounge customers, as well as access to purchase non-complimentary items. Some product features may be subject to additional charges. Airspace \nLounge locations are subject to change.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    689.0,
+                    867.0,
+                    770.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    1000,
+                    17609,
+                    17608
+                ]
+            },
+            {
+                "block_2_53": "Priority Pass Select",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    783.0,
+                    169.0,
+                    797.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    946,
+                    947,
+                    945
+                ]
+            },
+            {
+                "block_2_54": "These Terms and Conditions govern Corporate Platinum Card Members\u2019 participation in and use of the Priority Pass\u2122 Select program. Priority \nPass is an independent airport lounge access program. By enrolling in Priority Pass Select, you acknowledge and agree that American Express will \nverify your Card account number and provide updated Card account information to Priority Pass. Priority Pass will use this information to fulfill on \nthe Priority Pass Select program and may use this information for marketing related to the program. Once enrolled, Corporate Platinum Card \nMembers whose Card account is not cancelled may access participating Priority Pass Select lounges by presenting your Priority Pass Select card \nand airline boarding pass. In some lounges, Priority Pass Select member must be 21 years of age to enter without a parent or guardian. Priority \nPass Select members must adhere to all house rules of participating lounges. Amenities may vary among airport lounge locations. Conference \nrooms, where available, may be reserved for a nominal fee. Priority Pass Select lounge partners and locations are subject to change. All Priority \nPass Select members must adhere to the Priority Pass Conditions of Use, which will be sent to you with your membership package, and can be \nviewed at www.prioritypass.com. Upon receipt of your enrollment information, Priority Pass will send your Priority Pass Select card and \nmembership package which you should receive within 10\u201314 business days. If you have not received the Priority Pass card after 14 days, please \ncontact American Express using the number on the back of your American Express\u00ae Card. Please note, Additional Gold Card Members are not \neligible for membership.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    797.0,
+                    859.0,
+                    973.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    947,
+                    946,
+                    945
+                ]
+            },
+            {
+                "block_2_67": "Escape Lounges",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    986.0,
+                    148.0,
+                    1000.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Marketing Copy",
+                    "Marketing Copy",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    10478,
+                    13476,
+                    17608
+                ]
+            },
+            {
+                "block_2_68": "This benefit is available to Corporate Platinum Card Members receive complimentary access to any US location of the Escape Lounges. Card \nMember must present his or her valid Card, a boarding pass showing a confirmed reservation for same-day travel on any carrier and government-\nissued I.D. In some cases, Card Member must be 21 years of age to enter without a parent or guardian. Card Members may bring either (i) up to \ntwo guests or (ii) immediate family members, which are spouse or domestic partner and all children under the age of 18, as complimentary guests. \nCard Member must adhere to all house rules of participating lounges. Card Members and his or her guests will receive all of the complimentary \nbenefits and amenities afforded to the Escape Lounge customers, as well as access to purchase non-complimentary items. Some product features \nmay be subject to additional charges. Escape Lounge locations are subject to change.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    999.0,
+                    863.0,
+                    1094.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    17609,
+                    17608,
+                    1000
+                ]
+            },
+            {
+                "block_2_75": "2 Benefit is available to US Corporate Platinum Card Members only. To receive statement credits of up to $100 per calendar year toward incidental \nair travel fees, Card Member must select a qualifying airline at americanexpress.com/corporate/airlinechoice. Only the Basic Card Member or",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    1107.0,
+                    860.0,
+                    1135.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Marketing Copy",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    2445,
+                    2440,
+                    10577
+                ]
+            }
+        ]
+    },
+    "2": {
+        "pdf_height": "1188",
+        "pdf_width": "918",
+        "page_details": [
+            {
+                "block_3_1": "Authorized Account Manager(s) on the Card Account can select the qualifying airline. Card Members who have not chosen a qualifying airline will \nbe able to do so at any time. Card Members who have already selected a qualifying airline will be able to change their choice one time each year in \nJanuary at americanexpress.com/corporate/airlinechoice or by calling the number on the back of the Card. Card Members who do not change \ntheir airline selection will remain with their current airline. Statement Credits: Incidental air travel fees must be charged to the Card Member on the \neligible Corporate Platinum Card Account for the benefit to apply. Incidental air travel fees must be in US dollars and must be separate charges \nfrom airline ticket charges. Fees not charged by the Card Member\u2019s airline of choice (e.g. wireless internet and fees incurred with airline alliance \npartners) do not qualify for statement credits. Incidental air travel fees charged prior to selection of a qualifying airline are not eligible for \nstatement credits. Airline tickets, upgrades, mileage points purchases, mileage points transfer fees, gift cards, duty free purchases, and award \ntickets are not deemed to be incidental fees. The airline must submit the charge under the appropriate merchant code, industry code, or required \nservice or product identifier for the charge to be recognized as an incidental air travel fee. Please allow 2-4 weeks after the qualifying incidental air \ntravel fee is charged to your Corporate Platinum Card Account for statement credit(s) to be posted to the Account. We rely on airlines to submit \nthe correct information on airline transactions, so please call the number on the back of the Card if statement credits have not posted after 4 \nweeks from the date of purchase. Card Members remain responsible for timely payment of all charges. To be eligible for this benefit, Corporate \nPlatinum Card Account(s) must be active and not in default at the time of statement credit fulfillment. For additional information about this \nbenefit, call the number on the back of your Card.",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    52.0,
+                    865.0,
+                    255.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    2445,
+                    7997,
+                    1941
+                ]
+            },
+            {
+                "block_3_16": "3 As a U.S. Corporate Platinum Card Member you are eligible to enroll in complimentary Hilton Honors Gold status. Offer available only to U.S. \nCorporate Platinum Card Members and is not transferable. Full details of Gold status can be found at hiltonhonors.com/memberbenefits and is \nsubject to change by Hilton. Gold status benefits are subject to availability at participating hotels and resorts within the Hilton Portfolio. Once \nyou request enrollment in the Hilton Honors program, American Express will share your enrollment information with Hilton. Hilton may use this \ninformation in accordance with its privacy policy available at hiltonhonors.com/privacypolicy. If you already have Hilton Honors Gold status, you \ncan maintain the benefit in the future because you do not need to meet any stay requirements. You maintain Gold status without meeting \notherwise required criteria only while an eligible Card Member or until American Express notifies you that the benefit is terminated. Hilton \nHonors membership, earning of Points & Miles\u2122 when booking direct and redemption of Points are subject to Hilton Honors Terms and \nConditions. All Hampton by Hilton hotels in the Republic of China are excluded from the Hilton Honors program. Visit hiltonhonors.com/terms for \nmore details. \u00a92018 Hilton\nFor full list of Terms & Conditions visit business.americanexpress.com/us \n\u00a92018 American Express. All rights reserved",
+                "first_line_height": -1,
+                "last_line_height": -1,
+                "last_line": [],
+                "first_line": [],
+                "bbox": [
+                    54.0,
+                    263.0,
+                    855.0,
+                    447.0
+                ],
+                "all_lines": [],
+                "avg_gap": -1,
+                "avg_size": 10.0,
+                "last_h": -1,
+                "annotation_flag": "No",
+                "annotation_block": "Null",
+                "annotation_type": [
+                    "Terms & Conditions",
+                    "Terms & Conditions",
+                    "Terms & Conditions"
+                ],
+                "ctc_block_id": [
+                    11135,
+                    11136,
+                    19484
+                ]
+            }
+        ]
+    }
+}
